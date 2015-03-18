@@ -1,0 +1,9 @@
+/.struts.mex
+/com/
+/config.properties
+/ehcache.xml
+/fusioncharts_export.properties
+/log4j.xml
+/spring-hibernate.xml
+/spring.xml
+/struts.xml
